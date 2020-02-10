@@ -6,6 +6,7 @@ public class Palindrom {
 		// TODO Auto-generated method stub
 		System.out.println("the ");
 		// making
+		//another change
 		
 	}
 
